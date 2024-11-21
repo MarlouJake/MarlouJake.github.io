@@ -10,10 +10,3 @@ body{
     font-size: var(--text-size);
 }
 
-.index-nav ul{
-    display: flex;
-}
-
-.index-main section{
-    display: flex;
-}
