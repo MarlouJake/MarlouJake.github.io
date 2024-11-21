@@ -6,7 +6,6 @@
 .index-body{
     color: var(--text-color-d);
     font-size: var(--text-size-md);
-    height: 100vh;
 }
 
 /*.index-main section{
