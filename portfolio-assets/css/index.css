@@ -19,6 +19,10 @@ nav, ul{
     display: flex;
 }
 
+.muted-text, .disabled-text {
+    color: var(--text-color-lg);
+}
+
 .index-nav, .index-footer{
     background-color: var(--primary-color-bs-2);
 }
