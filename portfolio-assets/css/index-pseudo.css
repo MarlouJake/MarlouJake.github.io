@@ -1,4 +1,4 @@
-.index-nav a:hover{
+.index-nav ul a:hover{
     color: var(--hover-text-color-1);
 }
 
