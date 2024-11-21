@@ -1,9 +1,18 @@
 :root{
-    --primary-color: #007BFF ;
+    --primary-color-bs-1: #007BFF ;
+    --primary-color-bs-2: #4A90E2;
+    --primary-color-bs-3: #87CEEB;
 
-    --nav-color-1: #87CEEB;
+    --secondary-color-os-2: #FF6F61;
 
-    --text-color-1: #2e2e2e;
+    --bg-color-dark: #222831;
+    --bg-color-light: #F7F8FA;
+
+    --text-color-w: #FFFFFF;
+    --text-color-d: #2e2e2e;
+    --text-color-dg: #2C3E50;
+    --text-color-mg: #7F8C8D;
+    --text-color-lg: #ECF0F1;
 
     --text-size-vsm: 6px;
     --text-size-sm: 12px;

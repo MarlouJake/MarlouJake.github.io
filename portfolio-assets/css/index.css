@@ -4,8 +4,7 @@
 */
 
 .index-body{
-    /*background-color: var(--nav-color);*/
-    color: var(--text-color-1);
+    color: var(--text-color-d);
     font-size: var(--text-size-md);
     height: 100vh;
 }
@@ -21,11 +20,11 @@ nav, ul{
 }
 
 .index-nav, .index-footer{
-    background-color: var(--nav-color-1);
+    background-color: var(--primary-color-bs-2);
 }
 
 .index-nav a{
-    color: var(--index-link-text-2);
+    color: var(--text-size-w);
 }
 
 .index-nav a{
