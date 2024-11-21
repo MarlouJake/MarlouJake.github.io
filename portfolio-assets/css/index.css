@@ -24,4 +24,5 @@ nav, ul{
 
 .index-nav a{
     color: var(--text-color);
+    text-decoration: none;
 }
