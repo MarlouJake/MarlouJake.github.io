@@ -30,3 +30,7 @@ nav, ul{
 .index-nav a{
     text-decoration: none;
 }
+
+.index-nav ul{
+    padding: 0.3rem 1rem;
+}
