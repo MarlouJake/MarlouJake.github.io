@@ -11,6 +11,11 @@
     font-size: var(--text-size);
 }
 
+main{
+    background: url(https://marloujake.github.io/portfolio/images/napoli.png) no-repeat center;
+    background-size: cover;
+}
+
 nav, ul{
     display: flex;
 }
