@@ -2,6 +2,7 @@
     --primary-color: #007BFF ;
     --text-color: #2e2e2e;
     --text-size: 24px;
+    --index-link-text: #dae7f0;
 }
 
 
@@ -23,6 +24,6 @@ nav, ul{
 }
 
 .index-nav a{
-    color: var(--text-color);
+    color: var(--index-link-text);
     text-decoration: none;
 }
