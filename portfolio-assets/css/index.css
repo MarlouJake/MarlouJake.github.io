@@ -12,11 +12,11 @@
     height: 100vh;
 }s
 
-.index-main section{
+/*.index-main section{
     background: url(https://marloujake.github.io/portfolio-assets/images/napoli.png) no-repeat center;
     background-size: cover;
     height: 100% 
-}
+}*/
 
 nav, ul{
     display: flex;
