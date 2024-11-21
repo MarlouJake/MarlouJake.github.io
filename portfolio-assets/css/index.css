@@ -31,6 +31,6 @@ nav, ul{
     text-decoration: none;
 }
 
-.index-nav ul{
+.index-nav a{
     padding: 0.3rem 1rem;
 }
