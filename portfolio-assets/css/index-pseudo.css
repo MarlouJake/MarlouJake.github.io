@@ -1,3 +1,7 @@
 .index-nav a:hover{
-    color: var(--index-link-text-1);
+    color: var(--hover-text-color-1);
+}
+
+.index-nav a:hover{
+    background-color: var(--hover-bg-color-1);
 }

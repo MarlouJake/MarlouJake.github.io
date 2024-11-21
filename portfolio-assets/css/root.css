@@ -1,10 +1,21 @@
 :root{
     --primary-color: #007BFF ;
+
     --nav-color-1: #87CEEB;
+
     --text-color-1: #2e2e2e;
+
     --text-size-vsm: 6px;
     --text-size-sm: 12px;
     --text-size-md: 24px;
+
     --index-link-text-1: #dae7f0;
     --index-link-text-2: #1C3C5D;
+
+    --hover-bg-color-1: #AFEEEE;
+    --hover-bg-color-2: #4682B4;
+
+    --hover-text-color-1: #002B5B ;
+    --hover-text-color-2: #F8F8F8;
+
 }
