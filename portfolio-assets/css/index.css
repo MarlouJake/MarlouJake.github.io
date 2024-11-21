@@ -20,7 +20,7 @@ nav, ul{
     display: flex;
 }
 
-.index-nav{
+.index-nav, .index-footer{
     background-color: var(--nav-color-1);
 }
 
