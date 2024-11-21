@@ -19,7 +19,7 @@ nav, ul{
     display: flex;
 }
 
-.muted-text, .disabled-text {
+.muted-text, .disabled-text{
     color: var(--text-color-lg);
 }
 
