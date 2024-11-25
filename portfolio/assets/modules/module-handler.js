@@ -6,7 +6,7 @@ async function loadModules(modules) {
     const loadedModules = {};
 
     for(let module of modules){
-        let  module_path = moduleMap[[window.origin, module].join('')];
+        let  module_path = moduleMap[module];
 
         if(module_path){
             try{
