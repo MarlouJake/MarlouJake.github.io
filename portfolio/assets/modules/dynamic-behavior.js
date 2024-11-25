@@ -1,7 +1,7 @@
 window.onload = async function() {
-    let module = await loadModules(["view-controller"]);
-
-    let controller = await new module.ViewController();
+    let modules = await loadModules(["view-controller"]);
+    let viewController = modules["view-controller"];
+    let controller = await new viewController();
 
     await controller.Home().LoadContent();
     await controller.updateActive('/home');
