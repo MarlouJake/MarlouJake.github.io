@@ -1,0 +1,70 @@
+/*
+* Index Styles
+*
+*/
+
+.index-body{
+    color: var(--text-color-d);
+    font-size: var(--text-size-md);
+    background-color: aliceblue;
+}
+
+nav, ul{
+    display: flex;
+}
+
+.muted-text, .disabled-text{
+    color: var(--text-color-g);
+}
+
+.profile-index{
+    width: 20px;
+    height: 10px;
+    object-fit: cover;
+}
+
+.index-nav, .index-footer{
+    background-color: var(--primary-color-bs-1);
+}
+
+.index-nav a{
+    color: var(--text-color-w);
+}
+
+.index-nav a{
+    text-decoration: none;
+}
+
+.index-nav a{
+    padding: 0.3rem 1rem;
+}
+
+.index-nav-col-3{
+    padding-bottom: 0.74rem;
+}
+
+.index-nav-col-3 button{
+   color: var(--text-color-lg); 
+}
+
+.nav-brand{
+    margin-top: 0.72rem;
+}
+
+.contact-container{
+    z-index: 1060;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background-color: aliceblue;
+}
+
+.contact-container-backdrop{
+    z-index: 1040;
+    background-color: rgba(240, 248, 255, 0.451);
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+}
