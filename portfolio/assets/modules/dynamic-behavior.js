@@ -26,7 +26,7 @@ async function init(){
     }); 
 };
 
-await init()
+await init();
 
 
 
